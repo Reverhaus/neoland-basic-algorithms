@@ -1,5 +1,10 @@
-let myFavoriteHero = 'Hulk'
-let x = 50
-let h =5
-let y = 10
-let z = h+y
+/* const character = {name: 'Jack Sparrow', age: 25};
+const age = 25
+console.log(character) */
+
+//---------------//
+
+firstName = 'Jon';
+lastName = 'Snow';
+age = 24
+console.log('Soy',firstName,lastName,', tengo',age,'y me gustan los lobos')
