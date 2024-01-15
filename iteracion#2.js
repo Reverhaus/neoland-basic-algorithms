@@ -1,16 +1,16 @@
-/* firstName = 'Jon';
+ firstName = 'Jon';
 lastName = 'Snow';
 age = 24
-console.log('Soy',firstName,lastName,', tengo',age,'y me gustan los lobos') */
+console.log('Soy',firstName,lastName,', tengo',age,'y me gustan los lobos') 
 
 //---------------//
 
-/* const toy1 = { name: "Buss myYear", price: 19 };
+ const toy1 = { name: "Buss myYear", price: 19 };
 const toy2 = { name: "Rallo mcKing", price: 29 };
 
 const sumaPrecio = toy1.price + toy2.price;
 
-console.log(sumaPrecio); */
+console.log(sumaPrecio); 
 
 //---------------//
 
